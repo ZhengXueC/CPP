@@ -1,0 +1,7 @@
+﻿  EmployeeMgm.cpp
+C:\Users\xuezh\OneDrive\桌面\heimaC++\EmployeeMgsWithPolym\workerManager.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  workerManager.cpp
+C:\Users\xuezh\OneDrive\桌面\heimaC++\EmployeeMgsWithPolym\workerManager.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\xuezh\OneDrive\桌面\heimaC++\EmployeeMgsWithPolym\workerManager.cpp(355,26): warning C4552: '!=': result of expression not used
+  Generating Code...
+  EmployeeMgsWithPolym.vcxproj -> C:\Users\xuezh\OneDrive\桌面\heimaC++\EmployeeMgsWithPolym\x64\Debug\EmployeeMgsWithPolym.exe
